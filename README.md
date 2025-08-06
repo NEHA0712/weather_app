@@ -15,9 +15,6 @@ A simple Python application to fetch and display real-time weather data using th
 
 ---
 
-## 📸 GUI Preview
-
-> Screenshot placeholder (Add if desired)
 
 ---
 
